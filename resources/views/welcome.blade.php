@@ -1,11 +1,11 @@
 <!DOCTYPE html>
-<html>
+<html lang="pt-BR">
 <head>
+    <meta charset="UTF-8">
     <title>Busca de Produtos</title>
     @livewireStyles
 </head>
 <body>
-    <h1>Busca de Produtos</h1>
     @livewire('product-search')
     @livewireScripts
 </body>

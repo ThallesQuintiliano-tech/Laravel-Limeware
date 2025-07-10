@@ -22,9 +22,9 @@ services:
     restart: unless-stopped
     environment:
       MYSQL_DATABASE: teste
-      MYSQL_ROOT_PASSWORD: root
+      MYSQL_ROOT_PASSWORD: J@6h7k9l8
       MYSQL_USER: thalles
-      MYSQL_PASSWORD: J@h7k9l8
+      MYSQL_PASSWORD: J@6h7k9l8
     ports:
       - "3306:3306"
     volumes:
